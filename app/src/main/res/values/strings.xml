@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="hello_android">Hello Android</string>
+    <string name="dice_text">Hello Android</string>
+    <string name="dice_image">image</string>
+    <string name="dice_button">button</string>
+    <string name="roll">ROLL</string>
+</resources>
